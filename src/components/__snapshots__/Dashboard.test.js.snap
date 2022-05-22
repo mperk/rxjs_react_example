@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component testing 1`] = `
+<div>
+  <b>
+    Welcome to the Dashboard!
+  </b>
+  <p>
+    Sensor A : 
+  </p>
+  <p>
+    Sensor B : 
+  </p>
+  <p>
+    Sensor C : 
+  </p>
+  <p>
+    Sensor D : 
+  </p>
+</div>
+`;
